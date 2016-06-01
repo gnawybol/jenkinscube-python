@@ -1,0 +1,2 @@
+pyserial==3.0.1
+python-jenkins==0.4.12
